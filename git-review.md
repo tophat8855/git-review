@@ -34,7 +34,7 @@
   * git commit -m "description here"
 
 * Commit using the -m flag with a multi-line description
-  * < your answer here >
+  * git commit -m "description \nhere"
 
 * Push your local repository to github (assume your remote is already set)
   * < your answer here >
