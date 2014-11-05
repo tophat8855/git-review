@@ -43,7 +43,9 @@
   * git remote add origin sshlinkylinkylink
 
 * Change an existing remote
-  * < your answer here >
+  * git remote -v
+    git remote remove origin
+    git remote add origin sshlinkylinkylink
 
 * Pull changes from a shared github repo to your local repo
   * < your answer here >
