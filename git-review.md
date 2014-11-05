@@ -57,7 +57,8 @@
   * git log
 
 * Roll back to a specific commit in history
-  * git checkout <SHA>
+  * git checkout <SHA> to see the commit
+    git reset <SHA> --hard to erase newer commits
 
 #### You should understand the following:
 
